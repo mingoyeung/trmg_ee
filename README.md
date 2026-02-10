@@ -1,0 +1,1 @@
+The model naming TRMG consists of TVFEMD, R2CMSE, and MCQRNN. TVFEMD code is available via https://github.com/stfbnc/pytvfemd. R2CMSE (matlab version): https://github.com/Shurun-Wang/R2CMSE. MCQRNN: https://github.com/RektPunk/mcqrnn
